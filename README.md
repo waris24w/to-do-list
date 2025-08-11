@@ -31,15 +31,15 @@ A simple and elegant to-do list web application built with HTML, CSS, and JavaSc
 
 ```
 to-do-list/
-├── index.html          # Main HTML file
-├── styles.css          # CSS styles
-├── src.js             # JavaScript functionality
-├── resourses/         # Assets folder
-│   ├── to-do-icon.png # Header icon
-│   ├── checked.png    # Checked task icon
-│   ├── uncheck.png    # Unchecked task icon
-│   └── preview.png    # Preview image
-└── README.md          # Documentation
+├── index.html         
+├── styles.css          
+├── src.js            
+├── resourses/       
+│   ├── to-do-icon.png
+│   ├── checked.png   
+│   ├── uncheck.png   
+│   └── preview.png   
+└── README.md         
 ```
 
 ## Installation & Usage
